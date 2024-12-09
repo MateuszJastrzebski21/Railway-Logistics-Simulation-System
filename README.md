@@ -1,4 +1,4 @@
-**# Railway Logistics Simulation System
+# Railway Logistics Simulation System
 
 ## **Overview**
 A comprehensive simulation and management system for railway logistics, developed using Java as part of an academic Object-Oriented Programming (OOP) course. The application models and manages railway infrastructure, including stations, trainsets, connections, and various types of railroad cars.
