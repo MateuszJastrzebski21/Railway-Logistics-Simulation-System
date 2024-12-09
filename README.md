@@ -14,4 +14,4 @@ A comprehensive simulation and management system for railway logistics, develope
 ## **Technologies Used**
 - **Programming Language**: Java
 - **Core Concepts**: OOP (inheritance, interfaces, generics), multithreading, file I/O, graph algorithms.
-- **Custom Features**: Train collision prevention, custom exception handling.**
+- **Custom Features**: Train collision prevention, custom exception handling.
